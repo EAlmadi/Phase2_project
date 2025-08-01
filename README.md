@@ -139,3 +139,6 @@ ___
    The upward trend in average ratings may indicate improving film quality or shifting audience preferences. Understanding and sustaining this trend can help maintain competitive advantage.
 
 ___
+**Note on the IMDB Data set**
+<br>
+The data set exceeds github's file size limit.Therefore I have excluded it from the repository using .gitignore.
