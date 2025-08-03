@@ -142,3 +142,5 @@ ___
 **Note on the IMDB Data set**
 <br>
 The data set exceeds github's file size limit.Therefore I have excluded it from the repository using .gitignore.
+___
+**Interactive Dashboard**:https://public.tableau.com/app/profile/elsie.almadi/viz/Phase2_17542572841310/Dashboard1?publish=yes
